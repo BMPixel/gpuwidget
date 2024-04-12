@@ -19,10 +19,10 @@ gpuwidget.live()
 ```
 
 <p align="center">
-  <img width="100%" src="https://cdn-uploads.huggingface.co/production/uploads/62cd3a3691d27e60db0698b0/6-GqmeOUJJefGtG2_0tbE.png" alt="Monitor" style="border-radius: 5px; box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);">
+  <img width="100%" src="https://cdn-uploads.huggingface.co/production/uploads/62cd3a3691d27e60db0698b0/2QZ7oJOYbBEzt0criiH4j.png" alt="Monitor">
 </p>
 
-Then you are all set. The cell will finish in a few seconds, but the monitor will update itself in the background. `gpuwidget` works in jupyter notebook (including VSCode and PyCharm) and Google Colab. 
+Then you are all set. The cell will finish in a few seconds, but the monitor updates itself in the background. `gpuwidget` works in jupyter notebook (including VSCode and PyCharm) and Google Colab. 
 
 ## Features
 
