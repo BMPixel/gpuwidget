@@ -33,7 +33,7 @@ def live(stop_immediately=False):
         if stop_immediately:
             widget.stop_updating(widget.stop_button)
         display(widget)
-    except OSError as e:
+    except Exception as e:
         print(e)
         print("It's likely your runtime does not contains GPU instance.")
 
