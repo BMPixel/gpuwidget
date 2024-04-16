@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "gpuwidget"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Jupyter widget for monitoring NVIDIA GPUs."
 readme = "README.md"
 authors = [
