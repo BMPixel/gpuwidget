@@ -1,6 +1,6 @@
 # Changelog for `gpuwidget`
 
-## v0.1.1
+## v0.1.2
 
 - Move LICENSE to CC0 1.0
 - Add border to the widget
